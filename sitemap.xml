@@ -1,12 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-
-
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Created on Tue, 08 Aug 2023 13:28:55 GMT by Cyotek Sitemap Creator version 1.0.6.1 using provider Cyotek Sitemap Creator XML Provider version 1.0.0.0-->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://sites.google.com/view/tino0315/index.html</loc>
+  </url>
+  <url>
+    <loc>https://sites.google.com/view/tino0315/個人證照得獎index.html</loc>
+  </url>
+  <url>
+    <loc>https://sites.google.com/view/tino0315/彰化市美食index.html</loc>
+  </url>
+  <url>
+    <loc>https://sites.google.com/view/tino0315/彰化旅遊-goindex.html</loc>
+  </url>
+  <url>
+    <loc>https://sites.google.com/view/tino0315/關於我index.html</loc>
+  </url>
+  <url>
+    <loc>https://sites.google.com/view/tino0315/首頁index.html</loc>
+  </url>
 </urlset>
